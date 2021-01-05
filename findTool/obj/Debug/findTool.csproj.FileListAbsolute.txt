@@ -1,0 +1,7 @@
+C:\Users\Oleg\source\repos\findTool\findTool\bin\Debug\findTool.exe.config
+C:\Users\Oleg\source\repos\findTool\findTool\bin\Debug\findTool.exe
+C:\Users\Oleg\source\repos\findTool\findTool\bin\Debug\findTool.pdb
+C:\Users\Oleg\source\repos\findTool\findTool\obj\Debug\findTool.csprojAssemblyReference.cache
+C:\Users\Oleg\source\repos\findTool\findTool\obj\Debug\findTool.csproj.CoreCompileInputs.cache
+C:\Users\Oleg\source\repos\findTool\findTool\obj\Debug\findTool.exe
+C:\Users\Oleg\source\repos\findTool\findTool\obj\Debug\findTool.pdb
